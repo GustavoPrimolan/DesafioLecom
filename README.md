@@ -1,7 +1,7 @@
 <p>Projeto desenvolvido como desafio Lecom</p>
 
 <h1>Imagens do Projeto</h1>
-<h2>Sisteminha</h2>
+<h2>Desafio Lecom</h2>
 
 <img src="_imagens/01.PNG"/>
 <img src="_imagens/02.PNG"/>
